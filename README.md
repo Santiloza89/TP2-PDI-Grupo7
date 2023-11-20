@@ -12,15 +12,15 @@
   - Loza, Santiago
 
 ## Archivos
-  - `TP2-PDI-GRUPO7.pdf`: informe donde se encuentra detalladamente los pasos realizados y conclusiones del proyecto.
+  - `TP2-PDI-GRUPO7.pdf`: Informe donde se encuentra detalladamente los pasos realizados y conclusiones del proyecto.
     
-  - `ej1.py` : Código Python del ejercicio 1
+  - `ej1.py` : Código Python del ejercicio 1.
     
-  - `ej2.py` : Código Python del ejercicio 2
+  - `ej2.py` : Código Python del ejercicio 2.
     
-  - `monedas.jpg` : Imagene que se utiliza para el ejercicio 1
+  - `monedas.jpg` : Imagen que se utiliza para el ejercicio 1.
 
-  - `patentes.zip` : Zip con imagenes de patentes que se utilizan para el ejercicio 2. Las patentes utilizadas se encuentran dentro de la carpeta `Patentes`
+  - `patentes.zip` : Zip con imagenes de patentes que se utilizan para el ejercicio 2. Las patentes utilizadas se encuentran dentro de la carpeta `Patentes`.
 
 ## Indicaciones para correr el TP
 
